@@ -15,6 +15,7 @@ def create_attack(data):
             State(attack["endState"]),
             set(attack["info_required"]),
             set(attack["info_gained"]),
+            attack["id"]
         )
         for attack in data
     ]
