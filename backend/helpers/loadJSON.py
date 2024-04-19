@@ -15,6 +15,7 @@ def create_attack(data):
             State(attack["endState"]),
             set(attack["info_required"]),
             set(attack["info_gained"]),
+            attack["id"]
         )
         for attack in data
     ]
@@ -34,3 +35,10 @@ def load_state(filename):
     with open(filename, "r") as file:
         data = json.load(file)
     return State(data)
+
+
+# This function takes a filename as input, opens the file, and loads the JSON data from the file.
+def load_end_state(filename):
+    with open(filename, "r") as file:
+        data = json.load(file)
+    return data

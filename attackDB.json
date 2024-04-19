@@ -18,15 +18,10 @@
             ""
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address",
-            "Bluetooth Low Energy (BLE) MAC Address"
-        ],
-        "info_gained": [
             ""
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
@@ -50,12 +45,8 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
@@ -79,20 +70,15 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
         "id": 4,
         "name": "Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets",
         "initState": {
-            "Bluetooth Low Energy (BLE) Connectable": "Bluetooth Low Energy (BLE) Connectable",
-            "Bluetooth Low Energy (BLE) Discoverable": "Bluetooth Low Energy (BLE) Discoverable"
+            "Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable": "Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable"
         },
         "endState": {
             "": ""
@@ -109,22 +95,15 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Low Energy (BLE) radio"
+            "Computer, Bluetooth Low Energy (BLE) radio"
         ]
     },
     {
         "id": 5,
         "name": "BluePIL: a Bluetooth-based Passive Localization Method",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "endState": {
             "": ""
@@ -141,20 +120,15 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
         "id": 6,
         "name": "Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "endState": {
             "": ""
@@ -169,14 +143,10 @@
             "CVE-2019-18614"
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address"
-        ],
-        "info_gained": [
             ""
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
@@ -198,14 +168,10 @@
             "CVE-2020-0022"
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address"
-        ],
-        "info_gained": [
             ""
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
@@ -229,25 +195,18 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
         "id": 9,
         "name": "BIAS: Bluetooth Impersonation AttackS",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired"
         },
         "conference": [
             "IEEE S&P"
@@ -259,28 +218,20 @@
             "CVE-2020-10135"
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address",
-            "Bluetooth Classic (BR/EDR) MAC Address LAP",
-            "Bluetooth Classic (BR/EDR) MAC Address UAP"
-        ],
-        "info_gained": [
             ""
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
         "id": 10,
         "name": "The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            " Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting": " Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired"
+            "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired"
         },
         "conference": [
             "USENIX Security"
@@ -292,28 +243,20 @@
             "CVE-2019-9506"
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address",
-            "Bluetooth Classic (BR/EDR) MAC Address LAP",
-            "Bluetooth Classic (BR/EDR) MAC Address UAP"
-        ],
-        "info_gained": [
             "Bluetooth Encryption Key (Kc)"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
         "id": 11,
         "name": "Cracking the Bluettoth Pin",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable"
         },
         "conference": [
             "ACM"
@@ -325,26 +268,20 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "Bluetooh PIN"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
         "id": 12,
         "name": "Blacktooth: Breaking through the Defense of Bluetooth in Silence",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired"
         },
         "conference": [
             "ACM"
@@ -356,34 +293,20 @@
             ""
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address"
-        ],
-        "info_gained": [
             "Bluetooth Encryption Key (Kc)"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
         "id": 13,
         "name": "Linking Bluetooth LE & Classic and Implications for Privacy-Preserving Bluetooth-Based Protocols",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting",
-            "Bluetooth Low Energy (BLE) Connectable": "Bluetooth Low Energy (BLE) Connectable",
-            "Bluetooth Low Energy (BLE) Discoverable": "Bluetooth Low Energy (BLE) Discoverable",
-            "Bluetooth Low Energy (BLE) Paired": "Bluetooth Low Energy (BLE) Paired",
-            "Bluetooth Low Energy (BLE) Transmitting": "Bluetooth Low Energy (BLE) Transmitting"
+            "Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable, Bluetooth Low Energy (BLE) Paired, Bluetooth Low Energy (BLE) Transmitting": "Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable, Bluetooth Low Energy (BLE) Paired, Bluetooth Low Energy (BLE) Transmitting"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting",
-            "Bluetooth Low Energy (BLE) Connectable": "Bluetooth Low Energy (BLE) Connectable",
-            "Bluetooth Low Energy (BLE) Discoverable": "Bluetooth Low Energy (BLE) Discoverable",
-            "Bluetooth Low Energy (BLE) Paired": "Bluetooth Low Energy (BLE) Paired",
-            "Bluetooth Low Energy (BLE) Transmitting": "Bluetooth Low Energy (BLE) Transmitting"
+            "Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable, Bluetooth Low Energy (BLE) Paired, Bluetooth Low Energy (BLE) Transmitting": "Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable, Bluetooth Low Energy (BLE) Paired, Bluetooth Low Energy (BLE) Transmitting"
         },
         "conference": [
             "IEEE S&P"
@@ -397,25 +320,18 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Software-Defined Radio (SDR)",
-            "Bluetooth Classic (BR/EDR) radio",
-            "Bluetooth Low Energy (BLE) radio"
+            "Software-Defined Radio (SDR), Bluetooth Classic (BR/EDR) radio, Bluetooth Low Energy (BLE) radio"
         ]
     },
     {
         "id": 14,
         "name": "Location leaks on the GSM air interface",
         "initState": {
-            "GSM (2G) Authenticated": "GSM (2G) Authenticated",
-            "GSM (2G) TMSI allocated": "GSM (2G) TMSI allocated"
+            "GSM (2G) Authenticated, GSM (2G) TMSI allocated": "GSM (2G) Authenticated, GSM (2G) TMSI allocated"
         },
         "endState": {
-            "GSM (2G) Authenticated": "GSM (2G) Authenticated",
-            "GSM (2G) TMSI allocated": "GSM (2G) TMSI allocated"
+            "GSM (2G) Authenticated, GSM (2G) TMSI allocated": "GSM (2G) Authenticated, GSM (2G) TMSI allocated"
         },
         "conference": [
             "NDSS"
@@ -427,31 +343,20 @@
             ""
         ],
         "info_required": [
-            "GSM (2G) TMSI"
-        ],
-        "info_gained": [
             ""
         ],
         "hardwareRequirements": [
-            "Computer",
-            "GSM (2G) radio",
-            "GSM (2G) Base Station"
+            "Computer, GSM (2G) radio, GSM (2G) Base Station"
         ]
     },
     {
         "id": 15,
         "name": "LTESniffer: An Open-source LTE Downlink/Uplink Eavesdropper",
         "initState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES",
-            "LTE (4G) Communicating using ZUC": "LTE (4G) Communicating using ZUC"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC": "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC"
         },
         "endState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES",
-            "LTE (4G) Communicating using ZUC": "LTE (4G) Communicating using ZUC"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC": "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC"
         },
         "conference": [
             "WiSec"
@@ -463,15 +368,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -493,15 +393,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -523,15 +418,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -555,28 +445,18 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
         "id": 19,
         "name": "DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices",
         "initState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES",
-            "LTE (4G) Communicating using ZUC": "LTE (4G) Communicating using ZUC"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC": "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC"
         },
         "endState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES",
-            "LTE (4G) Communicating using ZUC": "LTE (4G) Communicating using ZUC"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC": "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC"
         },
         "conference": [
             "USENIX Security"
@@ -588,15 +468,10 @@
             "CVE-2019-2289"
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -618,15 +493,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -648,15 +518,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -680,12 +545,8 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -707,27 +568,20 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
         "id": 24,
         "name": "Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems",
         "initState": {
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES"
+            "LTE (4G) Authenticated, LTE (4G) Communicating using AES": "LTE (4G) Authenticated, LTE (4G) Communicating using AES"
         },
         "endState": {
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES"
+            "LTE (4G) Authenticated, LTE (4G) Communicating using AES": "LTE (4G) Authenticated, LTE (4G) Communicating using AES"
         },
         "conference": [
             "NDSS"
@@ -739,29 +593,20 @@
             ""
         ],
         "info_required": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
-        ],
-        "info_gained": [
             ""
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "LTE (4G) radio",
-            "LTE (4G) Base Station"
+            "Computer, Software-Defined Radio (SDR), LTE (4G) radio, LTE (4G) Base Station"
         ]
     },
     {
         "id": 25,
         "name": "Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems",
         "initState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated": "LTE (4G) Unauthenticated, LTE (4G) Authenticated"
         },
         "endState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated": "LTE (4G) Unauthenticated, LTE (4G) Authenticated"
         },
         "conference": [
             "NDSS"
@@ -773,18 +618,10 @@
             ""
         ],
         "info_required": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
-        ],
-        "info_gained": [
-            "User Location range",
-            "User Location - Precise"
+            "User Location range, User Location - Precise"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "LTE (4G) radio",
-            "LTE (4G) Base Station"
+            "Computer, Software-Defined Radio (SDR), LTE (4G) radio, LTE (4G) Base Station"
         ]
     },
     {
@@ -794,9 +631,7 @@
             "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated"
         },
         "endState": {
-            "GSM (2G) Unauthenticated": "GSM (2G) Unauthenticated",
-            "CDMA (2G) Unauthenticated": "CDMA (2G) Unauthenticated",
-            "UMTS (3G) Unauthenticated": "UMTS (3G) Unauthenticated"
+            "GSM (2G) Unauthenticated, CDMA (2G) Unauthenticated, UMTS (3G) Unauthenticated": "GSM (2G) Unauthenticated, CDMA (2G) Unauthenticated, UMTS (3G) Unauthenticated"
         },
         "conference": [
             "NDSS"
@@ -808,20 +643,10 @@
             ""
         ],
         "info_required": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
-        ],
-        "info_gained": [
-            "GSM (2G) IMSI",
-            "GSM (2G) TMSI",
-            "UMTS (3G) IMSI",
-            "UMTS (3G) TMSI"
+            "GSM (2G) IMSI, GSM (2G) TMSI, UMTS (3G) IMSI, UMTS (3G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "LTE (4G) radio",
-            "LTE (4G) Base Station"
+            "Computer, Software-Defined Radio (SDR), LTE (4G) radio, LTE (4G) Base Station"
         ]
     },
     {
@@ -843,30 +668,20 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "NR (5G-SA) SUPI",
-            "NR (5G-SA) SUCI",
-            "NR (5G-SA) TMSI"
+            "NR (5G-SA) SUPI, NR (5G-SA) SUCI, NR (5G-SA) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
         "id": 28,
         "name": "Breaking LTE on Layer Two",
         "initState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES": "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES"
         },
         "endState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES": "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES"
         },
         "conference": [
             "IEEE S&P"
@@ -878,11 +693,7 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "LTE (4G) IMSI",
-            "LTE (4G) TMSI"
+            "LTE (4G) IMSI, LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
             "Software-Defined Radio (SDR)"
@@ -907,14 +718,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "LTE (4G) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -938,24 +745,18 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
         "id": 31,
         "name": "SMS of Death: from analyzing to attacking mobile phones on a large scale",
         "initState": {
-            "GSM (2G) Authenticated": "GSM (2G) Authenticated",
-            "GSM (2G) Communicating using A5/0": "GSM (2G) Communicating using A5/0"
+            "GSM (2G) Authenticated, GSM (2G) Communicating using A5/0": "GSM (2G) Authenticated, GSM (2G) Communicating using A5/0"
         },
         "endState": {
-            "GSM (2G) Authenticated": "GSM (2G) Authenticated",
-            "GSM (2G) Communicating using A5/0": "GSM (2G) Communicating using A5/0"
+            "GSM (2G) Authenticated, GSM (2G) Communicating using A5/0": "GSM (2G) Authenticated, GSM (2G) Communicating using A5/0"
         },
         "conference": [
             "USENIX Security"
@@ -969,25 +770,18 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "GSM (2G) radio",
-            "GSM (2G) Base Station"
+            "GSM (2G) radio, GSM (2G) Base Station"
         ]
     },
     {
         "id": 32,
         "name": "Practical Attacks Against WEP and WPA",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA"
         },
         "endState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA, Wi-Fi Communicating using WEP"
         },
         "conference": [
             "Unknown"
@@ -1001,9 +795,6 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
             ""
         ]
@@ -1012,12 +803,10 @@
         "id": 33,
         "name": "The final nail in WEP's coffin",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WEP"
         },
         "endState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WEP"
         },
         "conference": [
             "IEEE S&P"
@@ -1029,27 +818,20 @@
             ""
         ],
         "info_required": [
-            "Wi-Fi IP Address",
-            "Wi-Fi MAC Address"
-        ],
-        "info_gained": [
             "Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi monitor"
+            "Computer, Wi-Fi monitor"
         ]
     },
     {
         "id": 34,
         "name": "The final nail in WEP's coffin",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WEP"
         },
         "endState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WEP"
         },
         "conference": [
             "IEEE S&P"
@@ -1061,27 +843,20 @@
             ""
         ],
         "info_required": [
-            "Wi-Fi IP Address",
-            "Wi-Fi MAC Address"
-        ],
-        "info_gained": [
             "Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi monitor"
+            "Computer, Wi-Fi monitor"
         ]
     },
     {
         "id": 35,
         "name": "Using the Fluhrer, Mantin, and Shamir Attack to Break WEP",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WEP"
         },
         "endState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WEP"
         },
         "conference": [
             "USENIX Security"
@@ -1093,14 +868,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi monitor"
+            "Computer, Wi-Fi monitor"
         ]
     },
     {
@@ -1122,15 +893,10 @@
             "CVE-2017-13077"
         ],
         "info_required": [
-            "Wi-Fi IP Address",
-            "Wi-Fi MAC Address"
-        ],
-        "info_gained": [
             "Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi monitor"
+            "Computer, Wi-Fi monitor"
         ]
     },
     {
@@ -1143,8 +909,7 @@
             "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA"
         },
         "conference": [
-            "21st International Workshop",
-            "FSE 2014"
+            "21st International Workshop, FSE 2014"
         ],
         "open_source_repo": [
             ""
@@ -1153,29 +918,20 @@
             ""
         ],
         "info_required": [
-            "Wi-Fi IP Address",
-            "Wi-Fi MAC Address"
-        ],
-        "info_gained": [
             "Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi radio"
+            "Computer, Wi-Fi radio"
         ]
     },
     {
         "id": 38,
         "name": "Blue's Clues: Practical Discovery of Non-Discoverable Bluetooth Devices",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "conference": [
             "IEEE S&P"
@@ -1187,15 +943,10 @@
             "CVE-2022-24695"
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "Bluetooth Classic (BR/EDR) MAC Address"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Software-Defined Radio (SDR), Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
@@ -1205,9 +956,7 @@
             "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting",
-            "Bluetooth Classic (BR/EDR) RCE": "Bluetooth Classic (BR/EDR) RCE"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Classic (BR/EDR) RCE": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Classic (BR/EDR) RCE"
         },
         "conference": [
             "Whitepaper"
@@ -1219,9 +968,6 @@
             "CVE-2017-1000251"
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address"
-        ],
-        "info_gained": [
             ""
         ],
         "hardwareRequirements": [
@@ -1247,14 +993,10 @@
             ""
         ],
         "info_required": [
-            "Cellular Phone Number"
-        ],
-        "info_gained": [
             "User Location (km)"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "GSM (2G) radio"
+            "Computer, GSM (2G) radio"
         ]
     },
     {
@@ -1276,27 +1018,20 @@
             ""
         ],
         "info_required": [
-            "Wi-Fi IP Address",
-            "Wi-Fi MAC Address"
-        ],
-        "info_gained": [
             "Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi monitor"
+            "Computer, Wi-Fi monitor"
         ]
     },
     {
         "id": 42,
         "name": "5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol",
         "initState": {
-            "NR (5G) Authenticated": "NR (5G) Authenticated",
-            "NR (5G) Communicating": "NR (5G) Communicating"
+            "NR (5G) Authenticated, NR (5G) Communicating": "NR (5G) Authenticated, NR (5G) Communicating"
         },
         "endState": {
-            "NR (5G) Unauthenticated": "NR (5G) Unauthenticated",
-            "NR (5G) Communicating": "NR (5G) Communicating"
+            "NR (5G) Unauthenticated, NR (5G) Communicating": "NR (5G) Unauthenticated, NR (5G) Communicating"
         },
         "conference": [
             "ACM"
@@ -1308,36 +1043,20 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "NR (5G-SA) SUPI",
-            "NR (5G-SA) SUCI",
-            "NR (5G-SA) TMSI",
-            "NR (5G-NSA) IMSI",
-            "NR (5G-NSA) TMSI"
+            "NR (5G-SA) SUPI, NR (5G-SA) SUCI, NR (5G-SA) TMSI, NR (5G-NSA) IMSI, NR (5G-NSA) TMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "NR (5G-SA) radio",
-            "NR (5G-SA) Base Station",
-            "NR (5G-NSA) radio",
-            "NR (5G-NSA) Base Station"
+            "Computer, Software-Defined Radio (SDR), NR (5G-SA) radio, NR (5G-SA) Base Station, NR (5G-NSA) radio, NR (5G-NSA) Base Station"
         ]
     },
     {
         "id": 43,
         "name": "Testing and Improving the Correctness of Wi-Fi Frame Injection",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA2": "Wi-Fi Communicating using WPA2",
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA"
         },
         "endState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA2": "Wi-Fi Communicating using WPA2",
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA"
         },
         "conference": [
             "WiSec"
@@ -1349,30 +1068,25 @@
             ""
         ],
         "info_required": [
+            "Wi-Fi decrypted traffic, Wi-Fi frame injection techniques",
+            " Vulnerabilities like KRACK and FragAttacks",
+            " Inject Malicious Packets",
+            " Perform sesison hijacking",
+            " Bypass access controls for the network",
             ""
         ],
-        "info_gained": [
-            "Wi-Fi decrypted traffic",
-            "Wi-Fi frame injection techniques; Vulnerabilities like KRACK and FragAttacks; Inject Malicious Packets; Perform sesison hijacking; Bypass access controls for the network;"
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "Wi-Fi monitor"
+            "Computer, Software-Defined Radio (SDR), Wi-Fi monitor"
         ]
     },
     {
         "id": 44,
         "name": "Owfuzz: Discovering Wi-Fi Flaws in Modern Devices through Over-The-Air Fuzzing",
         "initState": {
-            "Wi-Fi Communicating using WPA3": "Wi-Fi Communicating using WPA3",
-            "Wi-Fi Communicating using WPA2": "Wi-Fi Communicating using WPA2",
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA"
+            "Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA"
         },
         "endState": {
-            "Wi-Fi Communicating using WPA3": "Wi-Fi Communicating using WPA3",
-            "Wi-Fi Communicating using WPA2": "Wi-Fi Communicating using WPA2",
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA"
+            "Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2, Wi-Fi Communicating using WPA"
         },
         "conference": [
             "WiSec"
@@ -1384,15 +1098,10 @@
             ""
         ],
         "info_required": [
-            "Wi-Fi MAC Address"
-        ],
-        "info_gained": [
-            "The adversarial knowledge gained is primarily about the vulnerabilities in Wi-Fi protocols"
+            "The adversarial knowledge gained is primarily about the vulnerabilities in Wi-Fi protocols "
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "Wi-Fi radio"
+            "Computer, Software-Defined Radio (SDR), Wi-Fi radio"
         ]
     },
     {
@@ -1416,26 +1125,18 @@
         "info_required": [
             "NR (5G-SA) SUCI"
         ],
-        "info_gained": [
-            "NR (5G-SA) SUCI"
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "NR (5G-SA) radio",
-            "NR (5G-SA) Base Station"
+            "Computer, NR (5G-SA) radio, NR (5G-SA) Base Station"
         ]
     },
     {
         "id": 46,
         "name": "A Practical-Time Attack on the KASUMI Cryptosystem Used in GSM and 3G Telephony",
         "initState": {
-            "GSM (2G) Communicating using A5/1": "GSM (2G) Communicating using A5/1",
-            "UMTS (3G) Communicating": "UMTS (3G) Communicating"
+            "GSM (2G) Communicating using A5/1, UMTS (3G) Communicating": "GSM (2G) Communicating using A5/1, UMTS (3G) Communicating"
         },
         "endState": {
-            "GSM (2G) Communicating using A5/1": "GSM (2G) Communicating using A5/1",
-            "GSM (2G) Communicating using A5/2": "GSM (2G) Communicating using A5/2",
-            "UMTS (3G) Communicating": "UMTS (3G) Communicating"
+            "GSM (2G) Communicating using A5/1, GSM (2G) Communicating using A5/2, UMTS (3G) Communicating": "GSM (2G) Communicating using A5/1, GSM (2G) Communicating using A5/2, UMTS (3G) Communicating"
         },
         "conference": [
             "Advances in Cryptology"
@@ -1447,9 +1148,6 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "Decryption of GSM (2G) and UMTS (3G) encrypted communications using the KASUMI cipher"
         ],
         "hardwareRequirements": [
@@ -1475,9 +1173,6 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "Bluetooth Classic (BR/EDR) MAC Address"
         ],
         "hardwareRequirements": [
@@ -1503,15 +1198,10 @@
             "CVE-2022-24695"
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "Bluetooth Classic (BR/EDR) MAC Address LAP",
-            "Bluetooth Classic (BR/EDR) MAC Address UAP"
+            "Bluetooth Classic (BR/EDR) MAC Address LAP, Bluetooth Classic (BR/EDR) MAC Address UAP"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
@@ -1533,16 +1223,10 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "Wi-Fi IP Address",
-            "Wi-Fi MAC Address",
-            "Wi-Fi decrypted traffic"
+            "Wi-Fi IP Address, Wi-Fi MAC Address, Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi radio"
+            "Computer, Wi-Fi radio"
         ]
     },
     {
@@ -1564,28 +1248,20 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi radio"
+            "Computer, Wi-Fi radio"
         ]
     },
     {
         "id": 51,
         "name": "Testing and Improving the Correctness of Wi-Fi Frame Injection",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA3": "Wi-Fi Communicating using WPA3",
-            "Wi-Fi Communicating using WPA2": "Wi-Fi Communicating using WPA2"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2"
         },
         "endState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA3": "Wi-Fi Communicating using WPA3",
-            "Wi-Fi Communicating using WPA2": "Wi-Fi Communicating using WPA2"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3, Wi-Fi Communicating using WPA2"
         },
         "conference": [
             "WiSec"
@@ -1594,33 +1270,23 @@
             "https://github.com/vanhoefm/wifi-injection"
         ],
         "cve_number": [
-            "CVE-2021-36196",
-            "CVE-2021-36197"
+            "CVE-2021-36196, CVE-2021-36197"
         ],
         "info_required": [
-            "Wi-Fi MAC Address",
-            "Frame Injection"
-        ],
-        "info_gained": [
-            "Wi-Fi MAC Address",
-            "Wi-Fi decrypted traffic"
+            "Wi-Fi MAC Address, Wi-Fi decrypted traffic"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "Wi-Fi radio"
+            "Computer, Software-Defined Radio (SDR), Wi-Fi radio"
         ]
     },
     {
         "id": 52,
         "name": "Here, There, and Everywhere: Security Analysis of Wi-Fi Fine Timing ",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA3": "Wi-Fi Communicating using WPA3"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3"
         },
         "endState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA3": "Wi-Fi Communicating using WPA3"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA3"
         },
         "conference": [
             "WiSec"
@@ -1632,29 +1298,20 @@
             ""
         ],
         "info_required": [
-            "Wi-Fi MAC Address",
-            "User Location (m)"
-        ],
-        "info_gained": [
             "User Location (m)"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi radio",
-            "Wi-Fi monitor"
+            "Computer, Wi-Fi radio, Wi-Fi monitor"
         ]
     },
     {
         "id": 53,
         "name": "Practical Attacks Against WEP and WPA",
         "initState": {
-            "Wi-Fi Authenticated": "Wi-Fi Authenticated",
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Authenticated, Wi-Fi Communicating using WPA, Wi-Fi Communicating using WEP": "Wi-Fi Authenticated, Wi-Fi Communicating using WPA, Wi-Fi Communicating using WEP"
         },
         "endState": {
-            "Wi-Fi Communicating using WPA": "Wi-Fi Communicating using WPA",
-            "Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WEP"
+            "Wi-Fi Communicating using WPA, Wi-Fi Communicating using WEP": "Wi-Fi Communicating using WPA, Wi-Fi Communicating using WEP"
         },
         "conference": [
             "Unknown"
@@ -1666,15 +1323,10 @@
             ""
         ],
         "info_required": [
-            "Packet Sniffing"
-        ],
-        "info_gained": [
-            "Wi-Fi decrypted traffic",
-            "Packet Sniffing"
+            "Wi-Fi decrypted traffic, Packet Sniffing"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Wi-Fi monitor"
+            "Computer, Wi-Fi monitor"
         ]
     },
     {
@@ -1693,21 +1345,13 @@
             "https://github.com/vanhoefm/wifi-injection"
         ],
         "cve_number": [
-            "CVE-2021-36196",
-            "CVE-2021-36197"
+            "CVE-2021-36196, CVE-2021-36197"
         ],
         "info_required": [
-            "Wi-Fi MAC Address",
-            "Packet Sniffing"
-        ],
-        "info_gained": [
-            "Wi-Fi MAC Address",
-            "Packet Sniffing"
+            "Wi-Fi MAC Address, Packet Sniffing"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "Wi-Fi radio"
+            "Computer, Software-Defined Radio (SDR), Wi-Fi radio"
         ]
     },
     {
@@ -1729,11 +1373,7 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "Bluetooth Encryption Key (Kc)",
-            "Bluetooth PIN"
+            "Bluetooth Encryption Key (Kc), Bluetooth PIN"
         ],
         "hardwareRequirements": [
             "Computer"
@@ -1743,8 +1383,7 @@
         "id": 56,
         "name": "Breaking Secure Pairing of Bluetooth Low Energy Using Downgrade Attacks",
         "initState": {
-            "Bluetooth Low Energy (BLE) Connectable": "Bluetooth Low Energy (BLE) Connectable",
-            "Bluetooth Low Energy (BLE) Discoverable": "Bluetooth Low Energy (BLE) Discoverable"
+            "Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable": "Bluetooth Low Energy (BLE) Connectable, Bluetooth Low Energy (BLE) Discoverable"
         },
         "endState": {
             "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired"
@@ -1759,11 +1398,7 @@
             "CVE-2020-9770"
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "Bluetooth Low Energy (BLE) MAC Address",
-            "Packet Sniffing"
+            "Bluetooth Low Energy (BLE) MAC Address, Packet Sniffing"
         ],
         "hardwareRequirements": [
             ""
@@ -1773,8 +1408,7 @@
         "id": 57,
         "name": "Tracking Anonymized Bluetooth Devices",
         "initState": {
-            "Bluetooth Low Energy (BLE) Discoverable": "Bluetooth Low Energy (BLE) Discoverable",
-            "Bluetooth Low Energy (BLE) Idle": "Bluetooth Low Energy (BLE) Idle"
+            "Bluetooth Low Energy (BLE) Discoverable, Bluetooth Low Energy (BLE) Idle": "Bluetooth Low Energy (BLE) Discoverable, Bluetooth Low Energy (BLE) Idle"
         },
         "endState": {
             "Bluetooth Low Energy (BLE) Paired": "Bluetooth Low Energy (BLE) Paired"
@@ -1789,11 +1423,7 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
-            "Bluetooth Low Energy (BLE) MAC Address",
-            "Packet Sniffing"
+            "Bluetooth Low Energy (BLE) MAC Address, Packet Sniffing"
         ],
         "hardwareRequirements": [
             ""
@@ -1803,16 +1433,10 @@
         "id": 58,
         "name": "Blue's Clues: Practical Discovery of Non-Discoverable Bluetooth Devices",
         "initState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting",
-            "Bluetooth Classic (BR/EDR) Non-Discoverable": "Bluetooth Classic (BR/EDR) Non-Discoverable"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Classic (BR/EDR) Non-Discoverable": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting, Bluetooth Classic (BR/EDR) Non-Discoverable"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Discoverable": "Bluetooth Classic (BR/EDR) Discoverable",
-            "Bluetooth Classic (BR/EDR) Paired": "Bluetooth Classic (BR/EDR) Paired",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Discoverable, Bluetooth Classic (BR/EDR) Paired, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "conference": [
             "IEEE S&P"
@@ -1824,15 +1448,10 @@
             "CVE-2022-24695"
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "Bluetooth Classic (BR/EDR) MAC Address"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)",
-            "Bluetooth Classic (BR/EDR) radio"
+            "Computer, Software-Defined Radio (SDR), Bluetooth Classic (BR/EDR) radio"
         ]
     },
     {
@@ -1842,8 +1461,7 @@
             "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable"
         },
         "endState": {
-            "Bluetooth Classic (BR/EDR) Connectable": "Bluetooth Classic (BR/EDR) Connectable",
-            "Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Transmitting"
+            "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Transmitting": "Bluetooth Classic (BR/EDR) Connectable, Bluetooth Classic (BR/EDR) Transmitting"
         },
         "conference": [
             "Whitepaper"
@@ -1855,9 +1473,6 @@
             "CVE-2017-1000250"
         ],
         "info_required": [
-            "Bluetooth Classic (BR/EDR) MAC Address"
-        ],
-        "info_gained": [
             "Memory Bits"
         ],
         "hardwareRequirements": [
@@ -1883,24 +1498,17 @@
             ""
         ],
         "info_required": [
-            ""
-        ],
-        "info_gained": [
             "LTE (4G) IMSI"
         ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
         "id": 61,
         "name": "DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices",
         "initState": {
-            "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated",
-            "LTE (4G) Authenticated": "LTE (4G) Authenticated",
-            "LTE (4G) Communicating using AES": "LTE (4G) Communicating using AES",
-            "LTE (4G) Communicating using ZUC": "LTE (4G) Communicating using ZUC"
+            "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC": "LTE (4G) Unauthenticated, LTE (4G) Authenticated, LTE (4G) Communicating using AES, LTE (4G) Communicating using ZUC"
         },
         "endState": {
             "LTE (4G) Unauthenticated": "LTE (4G) Unauthenticated"
@@ -1917,12 +1525,8 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     },
     {
@@ -1946,12 +1550,8 @@
         "info_required": [
             ""
         ],
-        "info_gained": [
-            ""
-        ],
         "hardwareRequirements": [
-            "Computer",
-            "Software-Defined Radio (SDR)"
+            "Computer, Software-Defined Radio (SDR)"
         ]
     }
 ]
